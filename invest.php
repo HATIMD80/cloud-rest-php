@@ -176,8 +176,7 @@ padding: 0%;">
     </div>
     <div style="text-align:center">
        <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 18%">
-    </div>
-  </div>
+    </div> </div>
 <div id="footer">
     <p>
       Copyright (c) 2018 — Grey Box Technologies Pvt Ltd   |   All Rights Reserved
